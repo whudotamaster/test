@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>gitTest2</name>
+=======
+<<<<<<< HEAD
+	<name>gitTest</name>
+=======
+	<name>gitTest2</name>
+>>>>>>> branch 'master' of git@github.com:whudotamaster/test.git
+>>>>>>> branch 'master' of git@github.com:whudotamaster/test.git
 	<comment></comment>
 	<projects>
 	</projects>

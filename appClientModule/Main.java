@@ -1,6 +1,7 @@
 
 public class Main {
 	public static void main(String[] args) {
+
 		// TODO Auto-generated method stub
 		System.out.println("this is test2");
 	}
@@ -29,5 +30,10 @@ public class Main {
 		System.out.println("new test2");
 		System.out.println("new test");
 		System.out.println("new test2");
+		System.out.println("18:58");
 	}
-}
+
+
+	}
+
+

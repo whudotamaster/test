@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <wb-module deploy-name="gitTest2">
         <wb-resource deploy-path="/" source-path="/appClientModule" tag="defaultRootSource"/>
         <property name="java-output-path" value="/gitTest2/build/classes"/>
@@ -7,6 +8,21 @@
     <wb-module deploy-name="gitTest">
         <wb-resource deploy-path="/" source-path="/appClientModule" tag="defaultRootSource"/>
         <property name="java-output-path" value="/gitTest/build/classes"/>
+=======
+    <wb-module deploy-name="gitTest">
+        <wb-resource deploy-path="/" source-path="/appClientModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/gitTest/build/classes"/>
+=======
+<<<<<<< HEAD
+    <wb-module deploy-name="gitTest2">
+        <wb-resource deploy-path="/" source-path="/appClientModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/gitTest2/build/classes"/>
+=======
+    <wb-module deploy-name="gitTest">
+        <wb-resource deploy-path="/" source-path="/appClientModule" tag="defaultRootSource"/>
+        <property name="java-output-path" value="/gitTest/build/classes"/>
+>>>>>>> branch 'master' of git@github.com:whudotamaster/test.git
+>>>>>>> branch 'master' of git@github.com:whudotamaster/test.git
 >>>>>>> branch 'master' of git@github.com:whudotamaster/test.git
     </wb-module>
 </project-modules>
