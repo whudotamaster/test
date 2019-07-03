@@ -32,5 +32,6 @@ public class Main {
 		System.out.println("new test");
 		System.out.println("this is test2");
 		System.out.println("this is test3");
+		System.out.println("new test by zy");
 	}
 }
