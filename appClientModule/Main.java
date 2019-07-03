@@ -16,20 +16,6 @@ public class Main {
 		System.out.println("this is test2");
 		System.out.println("gitTest1 do this test");
 		//////////////////////////////
-		System.out.println("new test");
-		System.out.println("new test2");
-		System.out.println("new test");
-		System.out.println("new test2");
-		System.out.println("new test");
-		System.out.println("new test2");
-		System.out.println("new test");
-		System.out.println("new test2");
-		System.out.println("new test");
-		System.out.println("new test2");
-		System.out.println("new test");
-		System.out.println("new test2");
-		System.out.println("new test");
-		System.out.println("new test2");
 		System.out.println("18:58");
 	}
 
