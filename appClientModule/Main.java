@@ -31,6 +31,7 @@ public class Main {
 		System.out.println("new test");
 		System.out.println("new test2");
 		System.out.println("18:58");
+		System.out.println(System.currentTimeMillis());
 	}
 
 
